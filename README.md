@@ -1,2 +1,3 @@
 # vai
-mynameis
+mynameis <vai
+
